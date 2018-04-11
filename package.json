@@ -1,0 +1,17 @@
+{
+  "name": "npm-learn",
+  "version": "1.0.0",
+  "description": "try npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "ggwp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "ramda": "^0.25.0"
+  }
+}
